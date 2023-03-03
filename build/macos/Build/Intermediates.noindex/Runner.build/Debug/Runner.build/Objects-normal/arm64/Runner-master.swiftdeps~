@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "cc6e6febe70c6099a14fbbc363a66d4c75a021ac73293a0afa06598b68ac1db8"
+build_start_time: [1677829852, 996016025]
+build_end_time: [1677829853, 79879045]
+inputs:
+  "/Users/apple/Downloads/smartCollage-main/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1677829834, 568620920]
+  "/Users/apple/Downloads/smartCollage-main/macos/Runner/AppDelegate.swift": !private [1677773512, 0]
+  "/Users/apple/Downloads/smartCollage-main/macos/Runner/MainFlutterWindow.swift": !private [1677773512, 0]
